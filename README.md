@@ -1,5 +1,7 @@
 # Impressionist_434Doodle
 
+A mobile application that takes a picutres and recreates an "impressionist" version of it when the user draws on a canvas adjacent to the picutre
+
 Make sure you have the line 
 
 compile 'org.twitter4j:twitter4j-core:4.0.2'
